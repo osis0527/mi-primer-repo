@@ -1,2 +1,3 @@
 soy el nuevo texto
 Este es mi primer cambio desde mi computadora.
+Este cambio está hecho en la rama nueva-funcionalidad.
